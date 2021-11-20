@@ -14,3 +14,8 @@
 `python --user "Rafał Sochacki" --metric "mh"`
 
 ![rs_mh_result](https://user-images.githubusercontent.com/17493446/142698682-db553b7e-0a3f-4834-8da0-e380f4d7fbd5.png)
+
+### Symulacja 4:
+`python --user "Paweł Czapiewski" --metric "mh"`
+
+![image](https://user-images.githubusercontent.com/29002631/142722620-b931145a-9b78-427e-bf0d-49eeb588047d.png)
